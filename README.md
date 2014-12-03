@@ -61,6 +61,10 @@ http://blog.golang.org/c-go-cgo
 	37: error: use of undeclared identifier 'srandom'
 ```
 
+参考
+
+- http://tonybai.com/2012/09/26/interoperability-between-go-and-c/
+
 ## mem
 
 http://golang.org/ref/mem
